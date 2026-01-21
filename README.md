@@ -1,70 +1,62 @@
-# Getting Started with Create React App
+## React To-Do List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Interactive React To-Do App: Manage tasks efficiently — add, complete, and delete items. Built with React Hooks, component-based architecture, controlled forms, and responsive UI, demonstrating polished, real-world front-end development skills.
 
-## Available Scripts
+## Features 
+  * Add tasks via button click or Enter key
 
-In the project directory, you can run:
+  * Mark tasks as completed by clicking on them
 
-### `npm start`
+  * Delete tasks individually
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+  * Tracks completed vs remaining tasks dynamically
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  * Responsive layout with modern, clean UI
 
-### `npm test`
+  * Prevents empty or whitespace-only tasks
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Tech Stack
 
-### `npm run build`
+  * React.js (functional components, Hooks)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+  * JavaScript (ES6+)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  * CSS3 & Flexbox
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  * Create React App (CRA)
 
-### `npm run eject`
+## Screenshots
+<img width="1911" height="920" alt="ReactToDoList1" src="https://github.com/user-attachments/assets/8a8c3847-8b7b-47db-89cc-cb78a04c6921" />
+<img width="1905" height="926" alt="ReactToDoList2" src="https://github.com/user-attachments/assets/b2149eee-6b5a-4bc9-afe0-934a82390217" />
+<img width="1912" height="921" alt="ReactToDoList3" src="https://github.com/user-attachments/assets/ab934361-3df9-4d28-9b99-2048e5117894" />
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Installation and Running Locally
+1. Clone the repsitory
+   git clone https://github.com/yourusername/react-todo-app.git
+2. Navigate into thr project directory
+   cd react-todo-app
+3. Install dependencies
+   npm install
+4. Start the development server
+   npm start
+5. Open http://localhost3000 in your browser to see the app
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## What I Learned
+  * Building component-based React apps with clean separation of concerns
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+  * Managing state with React Hooks (useState)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  * Handling form inputs, events, and validation in React
 
-## Learn More
+  * Implementing conditional rendering and dynamic lists
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+  * Writing polished, professional UI with Flexbox and responsive design
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+  * Preparing projects to be portfolio-ready for recruiters
 
-### Code Splitting
+## Why This Project Matters
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This app demonstrates my practical React skills, UI/UX sensibility and coding discipline. I am dedicated to continuous learning and I strive for excellence by practsising and getting better ar React everyday. 
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
